@@ -12,4 +12,5 @@ Pony
 Red
 These are the colors of the rainbow,
 And the unicorn,
-And the pony.
+And the pony,
+End of line.
